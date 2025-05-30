@@ -5,3 +5,5 @@ langchain-groq
 dotenv
 playsound
 streamlit
+gtts
+tempfile
