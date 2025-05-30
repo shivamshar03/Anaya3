@@ -1,0 +1,9 @@
+speechrecognition
+pyaudio
+sounddevice
+openai-whisper
+pocketsphinx
+langchain-groq
+pyttsx3
+dotenv
+playsound
