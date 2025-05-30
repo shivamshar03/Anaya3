@@ -4,3 +4,4 @@ openai-whisper
 langchain-groq
 dotenv
 playsound
+streamlit
