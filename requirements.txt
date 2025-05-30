@@ -1,8 +1,9 @@
 speechrecognition
 pyaudio
-openai-whisper
+git+https://github.com/openai/whisper.git
 langchain-groq
 dotenv
 playsound
 streamlit
-
+gtts
+tempfile
