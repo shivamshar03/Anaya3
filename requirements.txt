@@ -1,6 +1,6 @@
 speechrecognition
 pyaudio
-openai-whisper
+#openai-whisper
 langchain-groq
 dotenv
 playsound
