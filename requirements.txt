@@ -6,4 +6,3 @@ dotenv
 playsound==1.2.2
 streamlit
 gtts
-tempfile
