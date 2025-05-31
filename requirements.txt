@@ -3,7 +3,7 @@ pyaudio
 git+https://github.com/openai/whisper.git
 langchain-groq
 dotenv
-playsound
+playsound==1.2.2
 streamlit
 gtts
 tempfile
