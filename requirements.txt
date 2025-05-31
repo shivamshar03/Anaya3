@@ -1,5 +1,5 @@
 speechrecognition
-pyaudio
+pyaudio==0.2.14
 git+https://github.com/openai/whisper.git
 langchain-groq
 dotenv
